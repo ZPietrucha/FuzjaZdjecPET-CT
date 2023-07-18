@@ -1,0 +1,5 @@
+numpy~=1.23.5
+pydicom~=2.3.1
+opencv-python~=4.7.0.68
+Pillow~=9.3.0
+PyWavelets
